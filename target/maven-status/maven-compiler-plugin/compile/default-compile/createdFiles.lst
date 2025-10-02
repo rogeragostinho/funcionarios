@@ -1,0 +1,6 @@
+com\roger\funcionarios\funcionario\Funcionario.class
+com\roger\funcionarios\funcionario\FuncionarioController.class
+com\roger\funcionarios\funcionario\FuncionarioRepository.class
+com\roger\funcionarios\funcionario\FuncionarioDTO.class
+com\roger\funcionarios\FuncionariosApplication.class
+com\roger\funcionarios\funcionario\FuncionarioService.class
